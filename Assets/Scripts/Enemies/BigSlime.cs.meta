@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0aac070d9a9619c4cb59d21947c800a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monsterSprite: {fileID: 21300000, guid: af39a8c3f67a9ca49b5c19ea36985560, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
